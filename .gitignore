@@ -1,0 +1,11 @@
+# Python environments & caches
+.venv/
+env/
+__pycache__/
+
+# Data folders (Do not push raw or cleaned corporate data)
+data/
+*.csv
+
+# OS generated files
+.DS_Store
